@@ -9,4 +9,4 @@ It is using the ADF Blob Storage package and few other packages to read the data
 After all the Azure Function is created, you can subsequently call them inside the ADF using the activity -"Azure Function"
 
 
-![Image description](link-to-image)
+![ADF Pipeline calling Azure Function Example](https://github.com/shanjin14/Azure_Data_Engineering_Azure_Function/blob/master/ADF_Pipeline.JPG)
